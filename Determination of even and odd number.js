@@ -9,3 +9,6 @@ if( n%2 === 0 ) {
 } else {
   console.log(n + " the number is Odd");
 }
+
+
+
