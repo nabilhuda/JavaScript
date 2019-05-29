@@ -1,6 +1,6 @@
 
 
-// Some fibonacci number diagnosis programs
+// Some fibonacci numbers diagnosis program
 
 
 var first = 0;
@@ -19,3 +19,6 @@ while( count<n ) {
   console.log(fibo);
   count++;
 }
+
+
+
