@@ -18,3 +18,7 @@ while( i<=10 ) {
 }
 console.log("The number of Even in ten numbers is " + evencount);
 console.log("The number of Odd in ten numbers is " + oddcount);
+
+
+
+
