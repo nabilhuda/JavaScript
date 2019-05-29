@@ -14,3 +14,7 @@ if( a<b && a<c ) {
 } else {
   console.log(c + " the number is smaller than " + a + " and " + b);
 }
+
+
+
+
