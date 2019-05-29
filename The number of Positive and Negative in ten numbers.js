@@ -22,8 +22,3 @@ console.log("The number of Negative in ten numbers is " + negacount);
 
 
 
-
-
-
-
-
