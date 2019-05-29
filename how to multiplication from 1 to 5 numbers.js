@@ -11,3 +11,7 @@ while( i<= n ) {
   i++;
 }
 console.log(sum + " the multiplication from 1 to 5");
+
+
+
+
