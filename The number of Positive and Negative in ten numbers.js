@@ -18,3 +18,12 @@ while( i<=10 ) {
 }
 console.log("The number of Positive in ten numbers is " + posicount);
 console.log("The number of Negative in ten numbers is " + negacount);
+
+
+
+
+
+
+
+
+
