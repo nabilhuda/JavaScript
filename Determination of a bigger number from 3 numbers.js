@@ -13,3 +13,7 @@ if( a>b && a>c ) {
 } else {
   console.log(c + " the number is bigger than " + a + " and " + b);
 }
+
+
+
+
