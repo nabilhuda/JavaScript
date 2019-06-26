@@ -18,3 +18,7 @@ var sentence = 'this example assumes at least one slide has been filled out and 
 console.log(
   sentence[0].toUpperCase() + sentence.slice(1)
 );
+
+
+
+
