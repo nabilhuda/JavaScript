@@ -13,3 +13,7 @@ while( i<n ) {
   i++;
 }
 console.log("The result of some numbers addition is " + sum);
+
+
+
+
