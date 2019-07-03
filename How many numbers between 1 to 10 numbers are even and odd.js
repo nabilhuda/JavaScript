@@ -16,3 +16,7 @@ while( i<=10 ){
 }
 console.log('The Even number between 1 to 10 is ' + evencount);
 console.log('The Odd number between 1 to 10 is ' + oddcount);
+
+
+
+
