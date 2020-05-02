@@ -1,3 +1,7 @@
+
+
+
+
 var something = new Object();
 
 
@@ -8,3 +12,7 @@ something.jakhusi = function() {
 }
 
 alert(something.jakhusi());
+
+
+
+
