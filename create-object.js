@@ -13,6 +13,11 @@ something.jakhusi = function() {
 
 alert(something.jakhusi());
 
+// for removeing add
+function cross() {
+	document.getElementById('advertisement').innerHTML = '';
+}
+
 
 
 
